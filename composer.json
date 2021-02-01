@@ -1,0 +1,17 @@
+{
+    "name": "live-php/framework",
+    "description": "A php MVC framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ben josiah",
+            "email": "benjosiah90@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/"
+        }
+    }
+}
